@@ -4,7 +4,7 @@
 
 
 <p align="left">
-Hey there, you can directly go to my_analysis.ipynb and get to see my answer for question Q3.2
+Hey there, you can directly go to **my_analysis.ipynb** and get to see my answer for question Q3.2
 "- 3.2 Type of Travel: Business travel olan ve 18 yaş üzerindeki müşterileri filtreleyebilir misin?
 Veriyi analiz ettiğinde bu müşteri segmentinde “satisfaction” verisinin olumlu ya da olumsuz
 olmasına etki eden en büyük faktörler nelerdir?"
