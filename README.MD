@@ -10,7 +10,7 @@ Veriyi analiz ettiğinde bu müşteri segmentinde “satisfaction” verisinin o
 olmasına etki eden en büyük faktörler nelerdir?"
 </p>
 
-- 🌱 I’m currently learning **ML Algorithms.**
+- 🌱 I’m currently learning **ML Algorithms, Data Analysis**
 
 - 💬 Ask me about **python, data science and webscrapping** 
 
